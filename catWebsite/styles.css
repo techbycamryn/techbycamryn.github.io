@@ -1,0 +1,28 @@
+header {
+    text-align: center;
+    background-color:rosybrown;
+    background-size: cover;
+    color: white;
+    padding:20px 0px 0px 0px;
+    
+}
+    body{
+       
+    }
+    article{
+       
+            
+    }
+    li {
+        padding: 5px;
+        display: block;
+        display: inline;
+        padding: 0px 10px 0px 10px;
+    }
+    
+    .headerLine {
+        padding: 10px;
+        background-color:oldlace;
+      }
+      
+  
